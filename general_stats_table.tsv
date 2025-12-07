@@ -1,0 +1,5 @@
+Sample	Vars	SNP	Indel	Ts/Tv	Error rate	Non-primary	Reads mapped	% Mapped	% Proper pairs	Total seqs	Reads mapped	Dups	GC	Seqs
+SRR11772244	.	.	.	.	0.20101709999999998	0	0.754761	99.87706599266896	99.64906244624119	0.75569	0.7558199999999999	.	.	.
+SRR11772244_1	.	.	.	.	.	.	.	.	.	.	.	77.9211594413922	38	0.38459899999999997
+SRR11772244_2	.	.	.	.	.	.	.	.	.	.	.	73.75185536495582	38	0.38459899999999997
+SRR11772244_final	8	8	0	3	.	.	.	.	.	.	.	.	.	.
